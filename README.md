@@ -1,3 +1,5 @@
+![PKB - KTB4 Speech Study](./PKB_Banner.png)
+
 # KTB4 Speech Study
 
 > 컴퓨터과학에 필요한 개념 지식(CS/OS, Network, AI 등)을 발표할 수 있는 수준까지 학습하고, 주제별 발표 자료와 검증 질문을 기록하는 공동 Repository.
